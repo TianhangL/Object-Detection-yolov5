@@ -1,0 +1,1 @@
+<annotation><filename>coco_000000580294.jpg</filename><size><width>640</width><height>443</height><depth>3</depth></size><object><name>person</name><bndbox><xmin>411</xmin><ymin>3</ymin><xmax>640</xmax><ymax>438</ymax></bndbox></object><object><name>toothbrush</name><bndbox><xmin>495</xmin><ymin>184</ymin><xmax>500</xmax><ymax>214</ymax></bndbox></object></annotation>

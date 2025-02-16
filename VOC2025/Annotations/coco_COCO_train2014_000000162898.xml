@@ -1,0 +1,1 @@
+<annotation><filename>coco_COCO_train2014_000000162898.jpg</filename><size><width>478</width><height>640</height><depth>3</depth></size><object><name>toothbrush</name><bndbox><xmin>300</xmin><ymin>143</ymin><xmax>359</xmax><ymax>402</ymax></bndbox></object></annotation>

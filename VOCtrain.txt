@@ -1,0 +1,1 @@
+/home/chenchen/lth/yolov5-master/VOC/images/000032.jpg
